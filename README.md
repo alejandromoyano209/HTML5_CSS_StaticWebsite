@@ -1,2 +1,4 @@
 # dhammagestion
-Dhamma Gestion Static Webpage
+Dhamma Gestion Static and Responsive Webpage
+
+HTML5 and CSS
